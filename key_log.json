@@ -1,0 +1,257 @@
+[
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "Key.shift"
+    },
+    {
+        "Held": "Key.shift"
+    },
+    {
+        "Held": "'N'"
+    },
+    {
+        "Released": "'N'"
+    },
+    {
+        "Released": "Key.shift"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "Key.shift"
+    },
+    {
+        "Held": "Key.shift"
+    },
+    {
+        "Held": "'M'"
+    },
+    {
+        "Released": "Key.shift"
+    },
+    {
+        "Released": "'m'"
+    },
+    {
+        "Pressed": "'o'"
+    },
+    {
+        "Held": "'o'"
+    },
+    {
+        "Released": "'o'"
+    },
+    {
+        "Pressed": "'a'"
+    },
+    {
+        "Held": "'a'"
+    },
+    {
+        "Released": "'a'"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "'h'"
+    },
+    {
+        "Held": "'h'"
+    },
+    {
+        "Released": "'h'"
+    },
+    {
+        "Pressed": "'a'"
+    },
+    {
+        "Held": "'a'"
+    },
+    {
+        "Released": "'a'"
+    },
+    {
+        "Pressed": "'n'"
+    },
+    {
+        "Held": "'n'"
+    },
+    {
+        "Released": "'n'"
+    },
+    {
+        "Pressed": "Key.shift"
+    },
+    {
+        "Held": "Key.shift"
+    },
+    {
+        "Held": "'R'"
+    },
+    {
+        "Released": "'R'"
+    },
+    {
+        "Released": "Key.shift"
+    },
+    {
+        "Pressed": "Key.backspace"
+    },
+    {
+        "Held": "Key.backspace"
+    },
+    {
+        "Released": "Key.backspace"
+    },
+    {
+        "Pressed": "'r'"
+    },
+    {
+        "Held": "'r'"
+    },
+    {
+        "Released": "'r'"
+    },
+    {
+        "Pressed": "'a'"
+    },
+    {
+        "Held": "'a'"
+    },
+    {
+        "Released": "'a'"
+    },
+    {
+        "Pressed": "'j'"
+    },
+    {
+        "Held": "'j'"
+    },
+    {
+        "Released": "'j'"
+    },
+    {
+        "Pressed": "Key.space"
+    },
+    {
+        "Held": "Key.space"
+    },
+    {
+        "Released": "Key.space"
+    },
+    {
+        "Pressed": "Key.shift"
+    },
+    {
+        "Held": "Key.shift"
+    },
+    {
+        "Held": "'M'"
+    },
+    {
+        "Released": "Key.shift"
+    },
+    {
+        "Released": "'m'"
+    },
+    {
+        "Pressed": "Key.ctrl_l"
+    },
+    {
+        "Held": "Key.ctrl_l"
+    },
+    {
+        "Held": "'\\x13'"
+    },
+    {
+        "Released": "'\\x13'"
+    },
+    {
+        "Released": "Key.ctrl_l"
+    }
+]
